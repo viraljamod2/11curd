@@ -1,0 +1,42 @@
+.input-div {
+  width: 900px;
+  margin: 0 auto;
+
+}
+.input-fill {
+background-color: rgb(181, 203, 183);
+  padding: 15px 80px ;
+
+
+  
+}
+.Update-button{
+  padding: 15px;
+  background-color: rgb(34, 202, 59);
+}
+.add-button{
+  padding: 15px;
+  background-color: brown;
+}
+*{
+  font-size: 30px;
+  color: rgb(4, 4, 10);
+  font-weight: bolder;
+}
+
+.Delete{
+ background-color: red;
+}
+.Edit{
+  background-color: green;
+}
+h1{
+  font-size: 60px;
+  color: blue;
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+h2{
+  font-size: 40px;
+  color: navy;
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
